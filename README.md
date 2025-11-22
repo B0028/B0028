@@ -8,13 +8,13 @@
 
 ###
 
-<h4 align="left">Languages:</h4>
+<br clear="both">
+
+<img align="right" height="200" src="https://i.pinimg.com/736x/d1/1f/33/d11f33ff4b2574be468a41f09ba1c054.jpg""  />
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://i.pinimg.com/736x/d1/1f/33/d11f33ff4b2574be468a41f09ba1c054.jpg"  />
+<h4 align="left">Languages:</h4>
 
 ###
 
@@ -58,17 +58,7 @@
 
 ###
 
-<p align="left"> 
-  <ul>
-    <li>
-      🔭 I’m currently working on <strong>HACKFLIX</strong>
-    </li>
-    <li>
-      🌱 I’m currently learning <strong>MySQL</strong>
-    </li>
-  </ul>
-</p>
-
+<p align="left">- 🔭 I’m currently working on **HACKFLIX**<br><br>- 🌱 I’m currently learning **MySQL**</p>
 
 ###
 
