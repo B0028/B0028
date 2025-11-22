@@ -58,7 +58,18 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on **HACKFLIX**<br><br>- 🌱 I’m currently learning **MySQL**</p>
+
+<p align="left"> 
+  <ul>
+    <li>
+      - 🔭 I’m currently working on **HACKFLIX**
+    </li>
+    <li>
+      - 🌱 I’m currently learning **MySQL**
+    </li>
+  </ul>
+</p>
+
 
 ###
 
