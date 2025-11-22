@@ -62,10 +62,10 @@
 <p align="left"> 
   <ul>
     <li>
-      - 🔭 I’m currently working on **HACKFLIX**
+      🔭 I’m currently working on <strong>**HACKFLIX**</strong>
     </li>
     <li>
-      - 🌱 I’m currently learning **MySQL**
+      🌱 I’m currently learning <strong>**MySQL**</strong>
     </li>
   </ul>
 </p>
